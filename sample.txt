@@ -1,0 +1,58 @@
+
+Defense Strategy Simulation
+
+Round 1
+Choose your strategy: 
+1. Attack 
+2. Defend 
+3. Diplomacy 
+4. RandomStrategy
+Enter the number of your strategy: 1
+Opponent's strategy is RandomStrategy.
+After round 1: Your Score: 1, Opponent's Score: 0
+Your move this round: Attack, Opponent's move: Defend
+
+Round 2
+Choose your strategy: 
+1. Attack 
+2. Defend 
+3. Diplomacy 
+4. RandomStrategy
+Enter the number of your strategy: 1
+After round 2: Your Score: 2, Opponent's Score: 0
+Your move this round: Attack, Opponent's move: Defend
+
+Round 3
+Choose your strategy: 
+1. Attack 
+2. Defend 
+3. Diplomacy 
+4. RandomStrategy
+Enter the number of your strategy: 2
+After round 3: Your Score: 2, Opponent's Score: 1
+Your move this round: Defend, Opponent's move: Attack
+
+Round 4
+Choose your strategy: 
+1. Attack 
+2. Defend 
+3. Diplomacy 
+4. RandomStrategy
+Enter the number of your strategy: 3
+After round 4: Your Score: 3, Opponent's Score: 2
+Your move this round: Diplomacy, Opponent's move: Defend
+
+Round 5
+Choose your strategy: 
+1. Attack 
+2. Defend 
+3. Diplomacy 
+4. RandomStrategy
+Enter the number of your strategy: 3
+After round 5: Your Score: 2, Opponent's Score: 5
+Your move this round: Diplomacy, Opponent's move: Attack
+
+Final Results:
+Your Total Score: 2
+Opponent's Total Score: 5
+Opponent is the overall winner. Better luck next time!
