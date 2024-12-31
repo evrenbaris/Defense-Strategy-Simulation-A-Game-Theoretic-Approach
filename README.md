@@ -19,7 +19,7 @@ This Python-based project is a strategic simulation inspired by scenarios from t
    - **4:** RandomStrategy
 3. The opponent’s strategy will be randomly chosen.
 4. At the end of 5 rounds, the final scores are displayed, and the winner is announced.
-
+.
 ## Installation
 To get started, clone this repository and ensure you have Python installed on your system. You will also need `matplotlib` for visualizations. Install it using:
 
